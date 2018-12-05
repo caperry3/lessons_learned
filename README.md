@@ -6,3 +6,4 @@ Things I have learned at Bloc.io
   4. git
   5. github
   6. css frameworks: bootstrap, foundation, Material
+  7. cats
